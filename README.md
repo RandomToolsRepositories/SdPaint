@@ -1,3 +1,5 @@
+Initial thread : https://www.reddit.com/r/StableDiffusion/comments/12pcbne/i_mad_a_python_script_the_lets_you_scribble_with/
+
 # SdPaint
 A simple python script that lets you paint on a canvas and sends that image every stroke to the automatic1111 API and updates the canvas when the image is generated
 
